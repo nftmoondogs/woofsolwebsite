@@ -41,7 +41,7 @@ export default function HeroSection() {
             />
         }
         <p className="font-courier text-xl mb-8">WOOF TOKEN BY WOOFLABS</p>
-        <a href="#learn-more" className="font-courier text-white uppercase underline text-base px-6 py-3 transition duration-300">
+        <a href="#about" className="font-courier text-white uppercase underline text-base px-6 py-3 transition duration-300">
           Learn More
         </a>
       </div>
