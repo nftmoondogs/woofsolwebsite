@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-        <link rel="icon" type="image/png" sizes="32x32" href="https://i.ibb.co/wRWTkWz/woof.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="https://i.ibb.co/Thxk5mZ/FINE-logo.png" />
           {/* Add custom scripts here */}
           <script src='https://terminal.jup.ag/main-v2.js' defer></script>
           {/* ... */}
