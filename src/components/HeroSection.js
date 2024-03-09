@@ -28,11 +28,11 @@ export default function HeroSection() {
         </h1>
         {
           isMobile ?
-            <img src="https://i.ibb.co/cDpmWxs/woof.png" alt="WOOF Logo" className="inline h-64" />
+            <img src="https://i.ibb.co/Thxk5mZ/FINE-logo.png" alt="FINE Logo" className="inline h-64" />
           :
             <video 
-              src="/videos/woof3d.mp4" 
-              alt="WOOF Logo" 
+              src="/videos/FINE.mp4" 
+              alt="FINE" 
               onMouseEnter={(e) => e.currentTarget.play()}
               onMouseLeave={(e) => e.currentTarget.pause()}
               loop
@@ -40,8 +40,8 @@ export default function HeroSection() {
               className="inline h-164"
             />
         }
-        <p className="font-courier text-xl mb-8">WOOF TOKEN BY WOOFLABS</p>
-        <a href="#about" className="font-courier text-white uppercase underline text-base px-6 py-3 transition duration-300">
+        <p className="font-courier text-xl mb-8">This is $FINE token</p>
+        <a href="#about 8u" className="font-courier text-white uppercase underline text-base px-6 py-3 transition duration-300">
           Learn More
         </a>
       </div>

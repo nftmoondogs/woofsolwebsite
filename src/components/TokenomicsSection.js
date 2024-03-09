@@ -3,7 +3,7 @@ import React from 'react';
 
 const TokenomicsSection = () => {
   return (
-    <div id="tokenomics" className="bg-gradient-to-b from-black to-purple-900 text-white py-12 px-4">
+    <div id="tokenomics" className="bg-gradient-to-b from-black to-orange-900 text-white py-12 px-4">
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-start">
         
         {/* Left Section */}
@@ -33,7 +33,7 @@ const TokenomicsSection = () => {
 
           {/* Additional Text */}
           <p className="font-simpfxo">
-            The WOOF claim period has ended. The remaining 236M WOOF allocated for the airdrop
+            The FINE claim period has ended. The remaining 236M FINE allocated for the airdrop
             (23.6% of the total supply) have been burned.
             </p>
             <p className="font-simpfxo">

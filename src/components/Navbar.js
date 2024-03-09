@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="bg-black py-4">
       <div className="container mx-auto flex justify-between items-center px-4 xl:px-0">
         <a href="/" className="flex items-center">
-          <img src="https://i.ibb.co/XCnhwBb/WOOF1.png" alt="WOOF Logo" className="h-12" />
+          <img src="https://i.ibb.co/z48mLPq/BIG-FINE.png" alt="This is $FINE Logo" className="h-12" />
         </a>
         <div className="flex items-center">
           {/* Social Icons */}
@@ -33,10 +33,10 @@ export default function Navbar() {
             <a href="#about" className="hover:text-gray-400 text-xl font-courier">About</a>
             <a href="#tokenomics" className="hover:text-gray-400 text-xl font-courier">Tokenomics</a>
             <a href="#foundation" className="hover:text-gray-400 text-xl font-courier">Foundation</a>
-            <a href="https://file.io/pVibt6bQsQO1" className="hover:text-gray-400 text-xl font-courier">Brand</a>
+            <a href="" className="hover:text-gray-400 text-xl font-courier">Brand</a>
             {/* Trade Button */}
-            <a href="#tokenomics" className="bg-white text-black px-3 py-1 border border-white text-xl font-courier hover:bg-gray-200 transition duration-300" style={{ boxShadow: '1px 1px 3px 2px #722d84' }}>
-              Trade WOOF
+            <a href="#tokenomics" className="bg-white text-black px-3 py-1 border border-white text-xl font-courier hover:bg-gray-200 transition duration-300" style={{ boxShadow: '1px 1px 3px 2px #CC5500' }}>
+              Trade $FINE
             </a>
           </div>
         </div>
